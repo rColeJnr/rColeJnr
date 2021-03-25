@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rColeJnr
 - 👀 I’m interested in app development
 - 🌱 I’m currently trying to master android development
-- 💞️ I’m looking to collaborate on android studio project.
+- 💞️ I’m looking to collaborate on android studio projects.
 - 📫 How to reach me email me, ricardo.m.jnr@gmail.com
 
 <!---
