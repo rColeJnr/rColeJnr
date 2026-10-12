@@ -27,5 +27,5 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rColeJnr&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rColeJnr&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </p>
