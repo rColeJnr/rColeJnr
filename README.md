@@ -13,7 +13,7 @@
 ### 🚀 About Me
 * 🌱 I hold a **Master of Science in Artificial Intelligence** from ITMO University.
 * 📱 (**Swift/iOS, Kotlin/Android**) and **Kotlin Multiplatform (KMP)** native Android development and Kotlin have been my primary passion and focus since 2020. In 2024, I expanded my mobile expertise into iOS development.
-* <img src="./assets/gopher.png" width="22" height="22" align="center" alt="Go Gopher"/> **Golang (Second Passion):** Around 2025, I truly fell in love with Go—captivated by its clean syntax, power, and how it drives massive-scale systems in Big Tech. I’ve dedicated rigorous study to mastering it (earning a Stepik Go certificate during my master's, reading *The Go Programming Language*, *Go in Pocket-Size Projects*, *Modern API Development in Go*, *Building Microservices with Go*, and *Building Powerful CLI Applications in Go*). I build production-grade standard-library-only REST APIs, terminal UIs, and robust backends for my mobile apps.
+* <img src="./gopher.png" width="22" height="22" align="center" alt="Go Gopher"/> **Golang (Second Passion):** Around 2025, I truly fell in love with Go—captivated by its clean syntax, power, and how it drives massive-scale systems in Big Tech. I’ve dedicated rigorous study to mastering it (earning a Stepik Go certificate during my master's, reading *The Go Programming Language*, *Go in Pocket-Size Projects*, *Modern API Development in Go*, *Building Microservices with Go*, and *Building Powerful CLI Applications in Go*). I build production-grade standard-library-only REST APIs, terminal UIs, and robust backends for my mobile apps.
 
 ---
 
